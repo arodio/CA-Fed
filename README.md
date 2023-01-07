@@ -54,7 +54,7 @@ provided in [examples/FedAvg.md](examples/FedAvg.md).
 ### Algorithms
 
 In addition to the baseline that assigns aggregation weights to the clients
-inversely proportional to their estimated availability $(\pi_k)_{k \in \mathcal{K}$, 
+inversely proportional to their estimated availability (\pi_k)_{k \in \mathcal{K}, 
 that we refer in the paper as `Unbiased` aggregation strategy, this repository supports
 the following federated learning algorithms:
 * FedAvg ([McMahan et al. 2017](http://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com))
